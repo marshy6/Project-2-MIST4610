@@ -69,7 +69,8 @@ The dataset was sufficiently organized to where we did not need to perform any a
 Q1 Visualization: 
 <img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/f573ae2a-8d4c-4f32-8b95-dcb8e2dda8fd" />
 
-Q1: Healthcare Attack Types by Financial Loss and Users Affected
+**Q1: Healthcare Attack Types by Financial Loss and Users Affected
+
 Visualization Analysis:
 The scatter plot illustrates a strong positive correlation between the number of affected users and total financial loss.
 
