@@ -30,7 +30,7 @@ The dataset includes a mix of categorical data (like attack type and industry) a
 Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries.
 
 
-## Q1: Healthcare attack types by Financial Loss and patients affected: 
+## Q1: Healthcare Attack Types by Financial Loss and Users Affected: 
 Question: "We're a healthcare organization that has experienced several cyber incidents. Based on industry data, which attack types are causing the greatest financial damage and affecting the most patients — and where should we be focusing our security budget?" 
 
 Visualization: 
