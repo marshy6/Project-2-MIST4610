@@ -89,16 +89,18 @@ Q2 Visualization:
 Q2: Best Defense Tools (Avg. Hours to Resolve Incident)
 
 Analysis of Defense Effectiveness:
-To address the primary threat identified in Q1 (Malware), we analyzed which defense mechanisms yielded the lowest Resolution Time. In a healthcare setting, every hour of downtime can equate to compromised patient care and escalating recovery costs.
+To address the primary threats identified in Q1, we analyzed which defense mechanisms yielded the lowest Resolution Time. In a healthcare setting, every hour of downtime can equate to compromised patient care and escalating recovery costs.
 
-Top Performers: Security Information and Event Management (SIEM) and Intrusion Detection Systems (IDS) typically show the lowest resolution times. Their ability to provide real-time alerts allows IT teams to neutralize malware before it spreads across the network.
+Visual Data Findings (DDoS Filtered):
 
-Middle Tier: Standard Firewalls and Antivirus software remain essential but often result in longer resolution times because they are reactive rather than proactive.
+Top Performer: Encryption is the most efficient defense tool, with an average resolution time of 21.50 hours. This suggests that protected data is significantly easier to recover or verify during a breach.
 
-Underperformers: Reliance on Manual Audits or outdated Patch Management protocols significantly inflates the resolution window, often exceeding the industry average.
+Middle Tier: Antivirus follows with a resolution time of 35.00 hours.
+
+Lower Efficiency: VPNs (41.80 hours), AI-based Detection (42.00 hours), and Firewalls (42.75 hours) show the longest resolution times. While these tools are essential for prevention, the data indicates they may not be the fastest tools for resolution once an incident has occurred.
 
 Implications:
-Given that Malware is the leading threat, the budget should shift from purely perimeter-based defense (Firewalls) to Intelligence-based defense (SIEM/AI-driven Monitoring). Investing in tools that reduce resolution time is the most effective way to "slide" a potential attack down the financial loss scale shown in the first visualization.
+Given that Malware and DDoS are leading threats, the budget should shift toward tools that minimize downtime. While AI-based detection is a common modern investment, its higher resolution time (42.00 hours) suggests it may need to be paired with more aggressive automated response protocols to be truly effective. Investing in robust Encryption should be a top priority, as it currently leads to the fastest return to normal operations.
 
 
 ## Tableau Packaged Workbook
