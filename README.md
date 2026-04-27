@@ -24,7 +24,11 @@ The dataset has 3,001 rows and 10 columns, where each row represents a single cy
 - **Affected Users** – Number of users impacted  
 - **Defense Mechanism** – Security used (firewall, antivirus, etc.)  
 - **Resolution Time** – Time to resolve the attack  
-- **Vulnerability Type** – Type of weakness exploited  
+- **Vulnerability Type** – Type of weakness exploited
+
+The dataset includes a mix of categorical data (like attack type and industry) and numerical data (like financial loss, number of users affected, and resolution time).
+
+Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries
 
 
 ## First Question: 
