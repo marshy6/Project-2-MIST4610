@@ -1,7 +1,6 @@
 # MIST 4610 Group Project 2: Global Cybersecurity Threat Analysis with Tableau​
 
-## Team Name - 21482 Group 3
-"xxx"
+## Group 3, Section 21482
 
 Team Members:
 - Tyson Elmore [@TysonElmore](https://github.com/TysonElmore)
