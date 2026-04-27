@@ -46,7 +46,9 @@ It is directly tied to the dataset by using Attack Type, Financial Loss, Number 
 
 
 
-## Manipulations applied to the dataset as apart of our analysis: 
+## Manipulations applied to the dataset as apart of our analysis:
+
+The dataset was sufficiently organized to where we did not need to perform any additional manipulations or calculations. 
 
 
 
