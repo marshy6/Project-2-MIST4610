@@ -69,7 +69,7 @@ The dataset was sufficiently organized to where we did not need to perform any a
 Q1 Visualization: 
 <img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/f573ae2a-8d4c-4f32-8b95-dcb8e2dda8fd" />
 
-**Q1: Healthcare Attack Types by Financial Loss and Users Affected
+Q1: Healthcare Attack Types by Financial Loss and Users Affected
 
 Visualization Analysis:
 The scatter plot illustrates a strong positive correlation between the number of affected users and total financial loss.
@@ -87,6 +87,7 @@ Q2 Visualization:
 <img width="564" height="429" alt="image" src="https://github.com/user-attachments/assets/c6aeb5d2-5756-42ab-b350-04165f768aa7" />
 
 Q2: Best Defense Tools (Avg. Hours to Resolve Incident)
+
 Analysis of Defense Effectiveness:
 To address the primary threat identified in Q1 (Malware), we analyzed which defense mechanisms yielded the lowest Resolution Time. In a healthcare setting, every hour of downtime can equate to compromised patient care and escalating recovery costs.
 
