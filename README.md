@@ -35,7 +35,11 @@ Overall, this dataset gives enough detail to explore patterns in cyberattacks an
 
 ### Why It's important: 
 
+This visualization helps healthcare organizations see which cyberattacks cause the most total damage by comparing financial loss and number of affected patients at the same time. It makes it easier to identify which threats have the greatest overall impact and should be prioritized.
 
+It also highlights that the most common attacks are not always the most costly, helping organizations make smarter decisions about where to focus their cybersecurity budget.
+
+It is directly tied to the dataset by using Attack Type, Financial Loss, Number of Affected Users, and filtering for the Healthcare industry, allowing for a focused and data-driven analysis of risk.
 
 ## Second Question: 
 
