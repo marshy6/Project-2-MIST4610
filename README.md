@@ -62,6 +62,12 @@ It is directly tied to the dataset by using Defense Mechanism, Resolution Time, 
 
 The dataset was sufficiently organized to where we did not need to perform any additional manipulations or calculations. 
 
+To answer this question, the dataset was filtered to only include incidents from the Healthcare industry and where the attack type was Malware.
+
+The Resolution Time variable was then aggregated by calculating the average resolution time for each Defense Mechanism. This allowed for a direct comparison of how efficiently each defense responds to malware incidents.
+
+No major data cleaning was required beyond filtering and aggregation, as the dataset was already structured appropriately for analysis.
+
 
 
 ## Analysis and results: 
