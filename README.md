@@ -33,9 +33,6 @@ Overall, this dataset gives enough detail to explore patterns in cyberattacks an
 ## Q1: Healthcare Attack Types by Financial Loss and Users Affected: 
 Question: "We're a healthcare organization that has experienced several cyber incidents. Based on industry data, which attack types are causing the greatest financial damage and affecting the most patients — and where should we be focusing our security budget?" 
 
-Visualization: 
-<img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/f573ae2a-8d4c-4f32-8b95-dcb8e2dda8fd" />
-
 
 ### Why It's important: 
 
@@ -69,6 +66,8 @@ The dataset was sufficiently organized to where we did not need to perform any a
 
 ## Analysis and results: 
 
+Q1 Visualization: 
+<img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/f573ae2a-8d4c-4f32-8b95-dcb8e2dda8fd" />
 
 
 ## Tableau Packaged Workbook
