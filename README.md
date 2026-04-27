@@ -12,7 +12,7 @@ Team Members:
 
 ## Dataset Description
 
-For this project, we used the dataset “Global_Cybersecurity_Threats_2015-2024.csv” from Kaggle. It covers cybersecurity incidents from 2015 through 2024 and gives a broad look at how different types of attacks have impacted industries over time
+For this project, we used the dataset “Global_Cybersecurity_Threats_2015-2024.csv” from Kaggle. It covers cybersecurity incidents from 2015 through 2024 and gives a broad look at how different types of attacks have impacted industries over time.
 
 The dataset has 3,001 rows and 10 columns, where each row represents a single cybersecurity incident. The columns provide details about what kind of attack happened, who it affected, and how it was handled.
 
@@ -28,7 +28,7 @@ The dataset has 3,001 rows and 10 columns, where each row represents a single cy
 
 The dataset includes a mix of categorical data (like attack type and industry) and numerical data (like financial loss, number of users affected, and resolution time).
 
-Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries
+Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries.
 
 
 ## First Question: 
