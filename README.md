@@ -9,3 +9,7 @@ Team Members:
 - Lucas Luxemburger [@lucasjbluxemburger](https://github.com/lucasjbluxemburger)
 - Gabe Po [@gabepo](https://github.com/gabepo)
 - Chris Trinh [@cat35795](https://github.com/cat35795)
+
+## Dataset Description
+
+xxx
