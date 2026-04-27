@@ -30,7 +30,7 @@ The dataset includes a mix of categorical data (like attack type and industry) a
 Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries.
 
 
-## Healthcare attack types by Financial Loss and patients affected: 
+## Q1: Healthcare attack types by Financial Loss and patients affected: 
 
 ### Why It's important: 
 
@@ -40,7 +40,7 @@ It also highlights that the most common attacks are not always the most costly, 
 
 It is directly tied to the dataset by using Attack Type, Financial Loss, Number of Affected Users, and filtering for the Healthcare industry, allowing for a focused and data-driven analysis of risk.
 
-## Best Defense Tools (Avg. Hours to Resolve Incident: 
+## Q2: Best Defense Tools (Avg. Hours to Resolve Incident: 
 
 ### Why It's important: 
 
