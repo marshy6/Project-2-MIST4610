@@ -45,7 +45,7 @@ Question: “Given that malware is a leading cyber threat to the healthcare indu
 
 Identifying the worst threat is only half the problem — knowing how to defend against it is what drives actionable decisions. With healthcare organizations facing budget constraints and increasing regulatory scrutiny around data protection (HIPAA, etc.), investing in the wrong defense tool wastes resources and leaves critical systems vulnerable. This question has direct implications: faster incident resolution and lower financial loss per incident means more resources available for patient care and less disruption to hospital operations.
 
-This question uses the dataset's Defense Mechanism Used, Incident Resolution Time (in Hours), Financial Loss (in Million $), Attack Type, and Target Industry columns. By first ranking all defense tools by average resolution time (filtered to Malware/Healthcare), then comparing the top performers by average financial loss per incident, the visualization produces a two-dimensional recommendation grounded in both speed and cost-effectiveness.
+This question uses the dataset's Defense Mechanism Used, Incident Resolution Time (in Hours), Financial Loss (in Million $), Attack Type, and Target Industry columns. Incident resolution time serves as the natural first metric for evaluating defense tools — the faster an organization can contain and resolve an attack, the less opportunity it has to spread and cause damage. Financial loss per incident is then used as a second lens to determine the best option among the top performers.
 
 ## Manipulations applied to the dataset as apart of our analysis:
 
