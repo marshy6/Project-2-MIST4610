@@ -76,5 +76,3 @@ The dashboard below displays average incident resolution time for each defense m
 The analysis identifies AI-based Detection (34.56 hrs), Antivirus (34.90 hrs), and Firewall (34.93 hrs) as the top three performing defense tools based on average incident resolution time. Because the top three perform within less than 0.4 hours of each other, the bottom chart provides further insight to determine the best overall option — revealing that AI-based Detection results in the lowest average financial loss per incident ($51.4M), compared to Antivirus ($53.7M) and Firewall ($54.9M).
 
 The overall implication is that healthcare organizations should prioritize investment in AI-based Detection when defending against Malware. It is the fastest-resolving tool and produces the lowest financial damage per incident, making it the most cost-effective defense option across both metrics.
-
-## Tableau Packaged Workbook
