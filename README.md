@@ -67,7 +67,8 @@ The dataset was sufficiently organized to where we did not need to perform any a
 ## Analysis and results: 
 
 Q1 Visualization: 
-<img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/f573ae2a-8d4c-4f32-8b95-dcb8e2dda8fd" />
+<img width="626" height="404" alt="image" src="https://github.com/user-attachments/assets/0454a4a9-d0d5-461b-8c05-5d92390866fd" />
+
 
 Q1: Healthcare Attack Types by Financial Loss and Users Affected
 
