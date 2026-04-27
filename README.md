@@ -44,7 +44,7 @@ It also highlights that the most common attacks are not always the most costly, 
 It is directly tied to the dataset by using Attack Type, Financial Loss, Number of Affected Users, and filtering for the Healthcare industry, allowing for a focused and data-driven analysis of risk.
 
 ## Q2: Best Defense Tools (Avg. Hours to Resolve Incident): 
-Question: "Given that Malware and DDoS are the leading attacks exploiting our biggest vulnerability, which defense mechanisms resolve these threats most effectively — and where should we be investing our security budget?" 
+Question: “Given that malware is a leading cyber threat to the healthcare industry, which defense mechanisms most effectively mitigate these attacks, and where should healthcare organizations prioritize their cybersecurity investments?”
 
 Visualization: 
 (Insert)
