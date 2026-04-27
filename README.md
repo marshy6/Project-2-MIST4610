@@ -44,6 +44,12 @@ It is directly tied to the dataset by using Attack Type, Financial Loss, Number 
 
 ### Why It's important: 
 
+This visualization helps healthcare organizations understand which security defenses are actually effective against malware, the most common type of cyberattack. By focusing on resolution time, it shows how quickly different defenses can contain and fix an attack, which is critical for reducing damage and downtime.
+
+It also highlights that not all security tools perform equally well, even if they are commonly used or considered advanced. This allows organizations to make smarter, more targeted decisions about where to invest their cybersecurity budget instead of relying on assumptions.
+
+It is directly tied to the dataset by using Defense Mechanism, Resolution Time, and Attack Type, while filtering for Malware and the Healthcare industry to provide a focused and data-driven analysis of defense effectiveness.
+
 
 
 ## Manipulations applied to the dataset as apart of our analysis:
