@@ -29,7 +29,7 @@ The dataset includes a mix of categorical data (like attack type and industry) a
 
 Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries.
 
-## Q1: Which attack type is hurting Us the most?
+## Q1: Which attack type is hurting us the most?
 Question: "We're a healthcare organization that has experienced several cyber incidents. Based on industry data, which attack types are causing the greatest financial damage and affecting the most patients — and where should we be focusing our security budget?" 
 
 ### Why It's important: 
@@ -57,7 +57,7 @@ For Question 2, the dataset was filtered to the Healthcare industry and further 
 
 ## Analysis and results: 
 
-### Q1: Which attack type is hurting Us the most?
+### Q1: Which attack type is hurting us the most?
 
 The scatter plot below displays major attack types in the healthcare industry, plotted by total financial loss (y-axis) and total number of users affected (x-axis). The "Select an Industry" dropdown allows the viewer to filter the visualization by industry, making the dashboard applicable beyond healthcare for any organization using this dataset.
 
@@ -65,7 +65,7 @@ The scatter plot below displays major attack types in the healthcare industry, p
 
 The visualization reveals that Malware is the most dangerous attack type in the healthcare industry, leading all other attack types in both total financial loss (approximately $4,000M) and total number of patients affected (approximately 45M). This positions Malware clearly apart from the rest of the field across both dimensions, making it the highest-priority threat for healthcare organizations to address.
 
-The implication is direct: healthcare security budgets should be weighted heavily toward Malware defenses, as it represents the greatest combined financial and patient burden of any attack type in the dataset.
+The implication is direct: healthcare security budgets should be weighted heavily toward Malware defenses, as it represents the greatest combined financial and patient burden of any attack type in the dataset. This finding directly motivates Question 2, which investigates which defense tools are most effective against Malware specifically.
 
 ### Q2: How should we defend ourselves from that attack?
 
