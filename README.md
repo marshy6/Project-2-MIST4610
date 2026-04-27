@@ -31,6 +31,7 @@ Overall, this dataset gives enough detail to explore patterns in cyberattacks an
 
 
 ## Q1: Healthcare attack types by Financial Loss and patients affected: 
+Question: "We're a healthcare organization that has experienced several cyber incidents. Based on industry data, which attack types are causing the greatest financial damage and affecting the most patients — and where should we be focusing our security budget?" 
 
 ### Why It's important: 
 
@@ -41,6 +42,7 @@ It also highlights that the most common attacks are not always the most costly, 
 It is directly tied to the dataset by using Attack Type, Financial Loss, Number of Affected Users, and filtering for the Healthcare industry, allowing for a focused and data-driven analysis of risk.
 
 ## Q2: Best Defense Tools (Avg. Hours to Resolve Incident): 
+Question: "Given that Malware and DDoS are the leading attacks exploiting our biggest vulnerability, which defense mechanisms resolve these threats most effectively — and where should we be investing our security budget?" 
 
 ### Why It's important: 
 
