@@ -1,7 +1,7 @@
 # MIST 4610 Group Project 2: Global Cybersecurity Threat Analysis with Tableau​
 
 ## Team Name - 21482 Group 3
-A relational database modeling the operations of a tree-planting nonprofit
+"xxx"
 
 Team Members:
 - Tyson Elmore [@TysonElmore](https://github.com/TysonElmore)
