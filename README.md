@@ -16,6 +16,17 @@ For this project, we used the dataset “Global_Cybersecurity_Threats_2015-2024.
 
 The dataset has 3,001 rows and 10 columns, where each row represents a single cybersecurity incident. The columns provide details about what kind of attack happened, who it affected, and how it was handled.
 
+Some of the main columns include:
+
+Attack Type (like malware, phishing, ransomware, etc.)
+Industry (such as healthcare, banking, IT)
+Financial Loss (how much damage the attack caused)
+Affected Users (how many people were impacted)
+Defense Mechanism (what was used to stop or respond to the attack)
+Resolution Time (how long it took to fix the issue)
+Vulnerability Type (what weakness was exploited)
+
+
 ## First Question: 
 
 ### Why It's important: 
