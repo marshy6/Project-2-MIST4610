@@ -74,14 +74,14 @@ Q1: Healthcare Attack Types by Financial Loss and Users Affected
 Visualization Analysis:
 The scatter plot illustrates a strong positive correlation between the number of affected users and total financial loss.
 
-Primary Threat (High Impact/High Loss): Malware sits at the top-right apex, causing over $4,100 million in losses and impacting approximately 43 million users. This indicates that malware is not just a frequent nuisance but a systemic risk to healthcare infrastructure.
+Primary Threat (High Impact/High Loss): Malware sits at the top-right corner of the plot, causing over $41 million in losses and impacting approximately 43 million users. This indicates that malware is not just a frequent nuisance but also a systemic risk to healthcare infrastructure.
 
-Secondary Threats: DDoS and Ransomware follow closely. While Ransomware is often the most publicized, this data suggests that the sheer volume of users disrupted by DDoS attacks leads to comparable financial repercussions (nearly $3,800 million).
+Secondary Threats: DDoS and Ransomware follow closely. While Ransomware is often the most publicized, this data suggests that the immense volume of users disrupted by DDoS attacks leads to comparable financial repercussions (roughly $38 million).
 
-Targeted Threats: Man-in-the-Middle (MitM) and Phishing show lower relative impact but still account for significant losses, typically hovering between 28M–32M affected users.
+Targeted Threats: Man-in-the-Middle (MitM) and Phishing show lower relative impact but still account for significant losses, typically affecting 28M–32M users.
 
 Implications:
-The healthcare industry is particularly vulnerable because of the high "value per record." Since malware and DDoS sit in the highest quadrant, the organization should prioritize redundancy and endpoint protection. The data suggests that for every 1 million additional users affected, the financial loss increases linearly, implying that containment is just as vital as prevention.
+The healthcare industry is particularly vulnerable because of the high "value per record." Since malware and DDoS sit in the highest quadrant, the organization should prioritize redundancy and endpoint protection. This data suggests that for every 1 million additional users affected, the financial loss increases linearly, implying that containment is just as important, if not more, as prevention.
 
 Q2 Visualization: 
 <img width="564" height="429" alt="image" src="https://github.com/user-attachments/assets/c6aeb5d2-5756-42ab-b350-04165f768aa7" />
