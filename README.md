@@ -40,7 +40,7 @@ It also highlights that the most common attacks are not always the most costly, 
 
 It is directly tied to the dataset by using Attack Type, Financial Loss, Number of Affected Users, and filtering for the Healthcare industry, allowing for a focused and data-driven analysis of risk.
 
-## Second Question: 
+## Best Defense Tools (Avg. Hours to Resolve Incident: 
 
 ### Why It's important: 
 
