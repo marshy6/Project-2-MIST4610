@@ -30,7 +30,7 @@ The dataset includes a mix of categorical data (like attack type and industry) a
 Overall, this dataset gives enough detail to explore patterns in cyberattacks and see how effective different security measures are across industries.
 
 
-## First Question: 
+## Healthcare attack types by Financial Loss and patients affected: 
 
 ### Why It's important: 
 
