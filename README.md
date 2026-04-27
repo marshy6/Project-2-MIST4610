@@ -24,7 +24,9 @@ Team Members:
 ### Why It's important: 
 
 
+
 ## Manipulations applied to the dataset as apart of our analysis: 
+
 
 
 ## Analysis and results: 
